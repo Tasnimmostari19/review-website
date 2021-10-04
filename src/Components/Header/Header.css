@@ -2,9 +2,16 @@
     display: flex;
     background-color: rgba(139, 212, 236, 0.836);
     line-height: 200px;
-    padding-left: 525px;
-
-    
+    padding-left: 20px; 
+}
+.icon{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+.link{
+    display: flex;
+    padding-left: 450px;
 }
 .nav{
     color: black;
@@ -15,3 +22,4 @@
 .nav:hover{
     color: whitesmoke;
 }
+

@@ -1,0 +1,13 @@
+h1{
+    background-color: rgba(139, 212, 236, 0.836);
+    font-size: 80px;
+    height: 400px;
+    padding: 100px;
+
+}
+.different{
+    font-size: 150px;
+}
+.different:hover{
+    color: rgb(247, 247, 122);
+}
