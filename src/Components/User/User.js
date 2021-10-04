@@ -41,6 +41,10 @@ const User = () => {
                 </InputGroup>
 
             </div>
+            <br />
+            <br />
+            <br />
+
         </div>
     );
 };
